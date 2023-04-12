@@ -1,0 +1,20 @@
+{
+  "name": "Piduino",
+  "version": "0.5.0",
+  "description": "Arduino API on Pi boards, the best of both worlds !",
+  "keywords": "rpi, raspberry, raspberrypi",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/flaviobattimo/piduino.git"
+  },
+  "authors":
+  [
+  ],
+  "license": "LGPL-3.0, GPL-3.0 licenses found",
+  "homepage": "https://github.com/epsilonrt/piduino",
+  "dependencies": {
+  },
+  "frameworks": "*",
+  "platforms": "linux_arm"
+}
