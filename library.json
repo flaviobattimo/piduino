@@ -16,7 +16,7 @@
   "dependencies": {
   },
   "scripts": {
-    "postinstall": "scripts/after_install.sh"
+    "postinstall-notused": "scripts/after_install.sh"
   },
   "build": {
     "extraScript": "scripts/build.py",
