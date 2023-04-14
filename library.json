@@ -21,7 +21,7 @@
   "build": {
     "extraScript": "scripts/build.py",
     "flags": [
-        "-I lib","-DPIDUINO_INSTALL_ETC_DIR=\\\"/etc\\\"","-lcppdb","-ldl","-ludev","-lpthread"
+        "-I scripts/lib","-DPIDUINO_INSTALL_ETC_DIR=\\\"/etc\\\"","-lcppdb","-ldl","-ludev","-lpthread"
     ]
   },
   "frameworks": "*",
