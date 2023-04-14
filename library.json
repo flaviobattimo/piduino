@@ -15,6 +15,9 @@
   "homepage": "https://github.com/epsilonrt/piduino",
   "dependencies": {
   },
+  "scripts": {
+    "postinstall": "scripts/after_install.sh"
+  },
   "frameworks": "*",
   "platforms": "linux_arm"
 }
